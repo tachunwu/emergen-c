@@ -3,6 +3,6 @@ title: EMERGEN-C
 description:
 date:
 tldr:
-draft: true
+draft: false
 tags: ["Plan"]
 ---
