@@ -2,6 +2,7 @@
 title = 'Paper Notion for Technical Writing'
 date = 2023-12-21T11:33:31+08:00
 draft = false
+tags = ["SPEC"]
 +++
 ## Introduction
 用一個情境說明(勾引)讀者，這也是唯一能讓你發揮創意的地方
