@@ -69,11 +69,21 @@ url = "/tinygrad"
 weight = 6
 
 [[menu.main]]
+name = "Distirbuted Systems"
+url = "/distributed-systems"
+weight = 7
+
+[[menu.main]]
+name = "Research"
+url = "/research"
+weight = 8
+
+[[menu.main]]
 name = "About"
 url = "/about"
-weight = 7
+weight = 9
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 8
+weight = 10
